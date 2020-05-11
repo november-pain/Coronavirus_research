@@ -1,67 +1,6 @@
 import ctypes
 
 
-class DataFrame:
-    def __init__(self):
-        """
-        initial method
-        """
-        self.columns = SeriesArray()
-        self.rows = SeriesArray()
-        self.num_cols = 0
-        self.num_rows = 0
-        self.column_names = SeriesArray()
-
-    def add_column(self, arr):
-        """
-        adds a column to a DataFrame
-        :param arr: SeriesArray
-        :return: None
-        """
-        arr_copy = arr.copy_arr()
-        self.columns.append(arr_copy)
-        self.num_cols += 1
-        if len(arr_copy) > self.num_rows:
-            for i in range(len(arr_copy) - self.num_rows):
-                self.add_row(SeriesArray())
-
-        for k in range(len(arr_copy)):
-            self.rows[k].append(arr_copy[k])
-
-    def add_row(self, arr):
-        """
-        adds a row to a DataFrame
-        :param arr: SeriesArray
-        :return: None
-        """
-        arr_copy = arr.copy_arr()
-        self.rows.append(arr_copy)
-        self.num_rows += 1
-        if len(arr_copy) > self.num_cols:
-            for i in range(len(arr_copy) - self.num_cols):
-                self.add_column(SeriesArray())
-
-        for k in range(len(arr_copy)):
-            self.columns[k].append(arr_copy[k])
-
-    def reverse_rows(self):
-        reversed_df = DataFrame()
-        reversed_df.column_names = self.column_names
-        for i in range(self.num_rows -1, -1, -1):
-            reversed_df.add_row(self.rows[i])
-        return reversed_df
-
-    def __str__(self):
-        s = "DataFrame\n"
-        s += str(self.column_names) + '\n'
-        for i in range(self.num_rows):
-            row = ""
-            for k in range(len(self.rows[i])):
-                row += str(self.rows[i][k]) + " " #+ " "*(len(str(self.rows[i][k])) + 1)
-            s += row + "\n"
-        return s
-
-
 class SeriesArray:
     def __init__(self):
         """
@@ -206,6 +145,15 @@ class SeriesArray:
         self._arr[index] = item
         self._num_el += 1
 
+    def map(self, func):
+        """
+        map method
+        :param func: python function
+        :return: None
+        """
+        for i in range(self._num_el):
+            self._arr[i] = func(self._arr[i])
+
     def __str__(self):
         """
         string representation of array
@@ -237,25 +185,15 @@ class _Iterator:
 
 
 if __name__ == '__main__':
-    arr = SeriesArray()
-    arr2 = SeriesArray()
-    arr.append(1)
-    arr.append(2)
-    # arr.append(3)
-    # arr.append(4)
-    # arr2.append(4)
-    # arr2.append(3)
-    arr2.append(2)
-    arr2.append(1)
+    a = SeriesArray()
+    a.append("1")
+    a.append("")
+    a.append("3")
+    a.append("4")
+    print(a)
+    print(type(a[1]))
+    a.map(lambda x: int(x) if x.isnumeric() else 0)
 
-    df = DataFrame()
-    df.add_column(arr)
-    df.add_column(arr2)
-    df.add_row(arr)
-    df.add_row(arr)
+    print(a)
+    print(type(a[1]))
 
-
-    df1 = df.reverse_rows()
-    print(df)
-    print(df1)
-    print(df.columns[1])
