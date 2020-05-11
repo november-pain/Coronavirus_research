@@ -143,7 +143,7 @@ if __name__ == '__main__':
     #
     # api.dataset_download_files('sudalairajkumar/covid19-in-usa', unzip=True)
 
-    
+
     usa_file = "us_states_covid19_daily.csv"
 
     usa = USA()
