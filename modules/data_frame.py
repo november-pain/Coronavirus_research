@@ -51,9 +51,38 @@ class DataFrame:
         """
         reversed_df = DataFrame()
         reversed_df.column_names = self.column_names
-        for i in range(self.num_rows -1, -1, -1):
+        for i in range(self.num_rows - 1, -1, -1):
             reversed_df.add_row(self.rows[i])
         return reversed_df
+
+    def map_column(self, index, func):
+        self.columns[index].map(func)
+        for row in self.rows:
+            row[index] = func(row[index])
+
+    def map_row(self, index, func):
+        self.rows[index].map(func)
+        for column in self.columns:
+            column[index] = func(column[index])
+
+    def avarage_ratio_of_growth_rates(self, clmn_indx1, clmn_indx2):
+        clmn1 = self.columns[clmn_indx1]
+        clmn2 = self.columns[clmn_indx2]
+        avg_ratio = 0
+        count = 1
+        for i in range(1, self.num_rows):
+            if clmn1[i] != 0 and clmn1[i - 1] != 0 \
+                    and clmn2[i] != 0 and clmn2[i - 1] != 0 \
+                    and clmn1[i] != clmn2[i]:
+                growth1 = clmn1[i] / clmn1[i - 1]
+                growth2 = clmn2[i] / clmn2[i - 1]
+                ratio = growth1 / growth2
+                # arr_ratio.append(ratio)
+                avg_ratio += ratio
+                count += 1
+            else:
+                pass
+        return avg_ratio / count
 
     def __str__(self):
         """
@@ -65,6 +94,6 @@ class DataFrame:
         for i in range(self.num_rows):
             row = ""
             for k in range(len(self.rows[i])):
-                row += str(self.rows[i][k]) + " " #+ " "*(len(str(self.rows[i][k])) + 1)
+                row += str(self.rows[i][k]) + " " * 9  # + " "*(len(str(self.rows[i][k])) + 1)
             s += row + "\n"
         return s

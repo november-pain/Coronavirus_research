@@ -2,7 +2,7 @@ import ctypes
 
 
 class SeriesArray:
-    def __init__(self):
+    def __init__(self, *argv):
         """
         initial method
         """
@@ -123,11 +123,7 @@ class SeriesArray:
                 self._arr[self._num_el - 1] = None
                 self._num_el -= 1
                 break
-        else:
-            raise ValueError("value not found")
 
-    def remove_all_instances(self, item):
-        pass
 
     def insert(self, item, index):
         """
@@ -153,6 +149,7 @@ class SeriesArray:
         """
         for i in range(self._num_el):
             self._arr[i] = func(self._arr[i])
+
 
     def __str__(self):
         """
