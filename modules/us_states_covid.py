@@ -125,7 +125,7 @@ class State:
         plt.plot_date(date_x, pos, marker="v", ls='-', label='GMC')
         plt.plot_date(date_x, neg, ls='-')
         plt.plot_date(date_x, total, marker="^", ls='-')
-        locx = plticker.MultipleLocator(base=5.0)
+        locx = plticker.MultipleLocator(base=6.0)
         plt.gca().xaxis.set_major_locator(locx)
 
         plt.grid(True)
