@@ -1,6 +1,6 @@
 # The purpose of program.
 
-The purpose of this program is to analize data about
+The purpose of this program is to analise data about
 COVID-19 in USA. It should find the correlation between testing activity
 and increase of number of new covid cases. Program makes calculations for each
 state separately and draws a graph. The idea of those calculations is to
@@ -29,7 +29,7 @@ object
 It contains DataFrame with data about covid tests. During initialization it
 it creates its DataFrame, proceeds all calculations, draws a graph and puts
 it into results directory. 
-* `class USA` - the main class which contains an array of all intsances of class
+* `class USA` - the main class which contains an array of all instances of class
 State, that are created during the initialization. Also it collects all 
 claculation results of each state and calculates the average.
 

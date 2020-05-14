@@ -1,0 +1,1094 @@
+<changelist name="Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1" date="1589416179486" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 5/14/20, 3:26 AM [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/random/_common.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_common.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/backends/web_backend/jquery-ui-1.12.1/images/ui-icons_777620_256x240.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/ui-icons_777620_256x240.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXSizThreeSymReg.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/plot_3d_from_2d.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/plot_3d_from_2d.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/move_large.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/move_large.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXSizFourSymBol.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/home_large.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/home_large.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXGeneral.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/hand.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/hand.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/contourf3d_fill.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/contourf3d_fill.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/tricontour.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/tricontour.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/_qhull.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_qhull.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/DejaVuSansMono-BoldOblique.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axisartist_axis_artist/axis_artist_ticklabels.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/axis_artist_ticklabels.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/random/_philox.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_philox.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/core/_rational_tests.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_rational_tests.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/move.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/move.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXGeneralItalic.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/lines3d.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/lines3d.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/tests/cmr10.pfb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/cmr10.pfb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/_path.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_path.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/linalg/lapack_lite.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/lapack_lite.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/back.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/back.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/subplots_large.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/subplots_large.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/voxels-named-colors.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/voxels-named-colors.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/contour3d.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/contour3d.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/backends/web_backend/jquery-ui-1.12.1/images/ui-icons_cc0000_256x240.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/ui-icons_cc0000_256x240.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/lib/tests/data/py2-objarr.npz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/py2-objarr.npz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/zoom_to_rect_large.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/zoom_to_rect_large.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/forward.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/forward.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/random/_mt19937.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_mt19937.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/lib/tests/data/py2-objarr.npy" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/py2-objarr.npy" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/back_large.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/back_large.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/_png.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_png.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/subplots.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/subplots.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axisartist_axislines/ParasiteAxesAuxTrans_meshplot.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/ParasiteAxesAuxTrans_meshplot.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/home.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/home.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/cmss10.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/DejaVuSans.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axisartist_axislines/Subplot.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/Subplot.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axisartist_axis_artist/axis_artist_labelbase.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/axis_artist_labelbase.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXGeneralBol.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axes_grid/imagegrid_cbar_mode.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/imagegrid_cbar_mode.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axisartist_grid_helper_curvelinear/axis_direction.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/axis_direction.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/lib/tests/data/python3.npy" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/python3.npy" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/cmtt10.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/_contour.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_contour.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axisartist_floating_axes/curvelinear4.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/curvelinear4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axes_grid1/twin_axes_empty_and_removed.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/twin_axes_empty_and_removed.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/backends/web_backend/jquery-ui-1.12.1/images/ui-icons_ffffff_256x240.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/ui-icons_ffffff_256x240.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/contourf3d.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/contourf3d.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/core/_multiarray_tests.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_multiarray_tests.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/voxels-rgb-data.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/voxels-rgb-data.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/qt4_editor_options.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/qt4_editor_options.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/hand.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/hand.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/DejaVuSerifDisplay.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axisartist_clip_path/clip_path.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/clip_path.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXGeneralBolIta.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/random/_sfc64.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_sfc64.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/matplotlib_128.ppm" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/matplotlib_128.ppm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/random/_pcg64.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_pcg64.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/backends/web_backend/jquery-ui-1.12.1/images/ui-icons_555555_256x240.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/ui-icons_555555_256x240.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/random/_generator.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_generator.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/zoom_to_rect.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/zoom_to_rect.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/fft/_pocketfft_internal.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_pocketfft_internal.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/DejaVuSerif-Bold.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/back.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/back.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/core/lib/libnpymath.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/libnpymath.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXSizOneSymBol.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/subplots_large.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/subplots_large.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/home_large.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/home_large.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/DejaVuSans-BoldOblique.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/quiver3d.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/quiver3d.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/help_large.ppm" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/help_large.ppm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXNonUniBolIta.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/matplotlib_large.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/matplotlib_large.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/filesave.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/filesave.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/backends/_tkagg.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_tkagg.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axes_grid1/anchored_direction_arrows.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/anchored_direction_arrows.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/trisurf3d_shaded.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/trisurf3d_shaded.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/sample_data/logo2.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/logo2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/wireframe3dzerocstride.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/wireframe3dzerocstride.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/lib/tests/data/py3-objarr.npz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/py3-objarr.npz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/axes3d_ortho.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/axes3d_ortho.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/sample_data/jacksboro_fault_dem.npz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/jacksboro_fault_dem.npz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/filesave_large.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/filesave_large.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/lib/tests/data/py3-objarr.npy" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/py3-objarr.npy" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/matplotlib.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/matplotlib.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXSizTwoSymReg.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXNonUni.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/forward.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/forward.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/help_large.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/help_large.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/proj3d_axes_cube.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/proj3d_axes_cube.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/sample_data/axes_grid/bivariate_normal.npy" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/bivariate_normal.npy" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/core/_operand_flag_tests.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_operand_flag_tests.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/forward_large.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/forward_large.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/proj3d_axes_cube_ortho.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/proj3d_axes_cube_ortho.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXSizFourSymReg.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axisartist_grid_helper_curvelinear/polar_box.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/polar_box.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/DejaVuSerif.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/ft2font.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/ft2font.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/sample_data/aapl.npz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/aapl.npz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/voxels-alpha.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/voxels-alpha.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/core/_multiarray_umath.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_multiarray_umath.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXSizThreeSymBol.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/subplots.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/subplots.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/DejaVuSansMono-Oblique.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/sample_data/grace_hopper.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/grace_hopper.jpg" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/wireframe3d.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/wireframe3d.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/DejaVuSansMono-Bold.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/home.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/home.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/sample_data/eeg.dat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/eeg.dat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/cmmi10.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/filesave.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/filesave.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/back.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/back.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/text3d.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/text3d.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/sample_data/ada.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/ada.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXSizOneSymReg.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/hand_large.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/hand_large.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/help.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/help.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/DejaVuSerif-BoldItalic.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/sample_data/Minduka_Present_Blue_Pack.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/Minduka_Present_Blue_Pack.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/DejaVuSans-Bold.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/.libs/libpng16-cfdb1654.so.16.21.0" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/libpng16-cfdb1654.so.16.21.0" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/DejaVuSans-Oblique.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/poly3dcollection_alpha.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/poly3dcollection_alpha.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/qt4_editor_options.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/qt4_editor_options.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/voxels-simple.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/voxels-simple.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/forward.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/forward.pdf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/backends/_backend_agg.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_backend_agg.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/cmb10.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axes_grid1/inverted_zoomed_axes.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/inverted_zoomed_axes.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/move.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/move.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/trisurf3d.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/trisurf3d.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/core/tests/data/recarray_from_file.fits" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/recarray_from_file.fits" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/cmr10.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/sample_data/goog.npz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/goog.npz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axisartist_grid_helper_curvelinear/custom_transform.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/custom_transform.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/lib/tests/data/win64python2.npy" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/win64python2.npy" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axes_grid1/divider_append_axes.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/divider_append_axes.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXSizFiveSymReg.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/quiver3d_empty.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/quiver3d_empty.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/_tri.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_tri.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/forward_large.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/forward_large.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axisartist_axis_artist/axis_artist_ticks.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/axis_artist_ticks.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/core/_umath_tests.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_umath_tests.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/surface3d.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/surface3d.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/cmsy10.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axes_grid1/anchored_direction_arrows_many_args.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/anchored_direction_arrows_many_args.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/sample_data/topobathy.npz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/topobathy.npz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/random/_bit_generator.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_bit_generator.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/sample_data/None_vs_nearest-pdf.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/None_vs_nearest-pdf.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/zoom_to_rect.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/zoom_to_rect.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXSizTwoSymBol.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/DejaVuSerif-Italic.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/matplotlib.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/matplotlib.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/filesave_large.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/filesave_large.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/backends/web_backend/jquery-ui-1.12.1/images/ui-icons_777777_256x240.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/ui-icons_777777_256x240.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/help.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/help.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/proj3d_lines_dists.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/proj3d_lines_dists.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy.libs/libopenblasp-r0-34a18dc3.3.7.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/libopenblasp-r0-34a18dc3.3.7.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXNonUniBol.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/poly3dcollection_closed.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/poly3dcollection_closed.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axes_grid1/inset_locator.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/inset_locator.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/qt4_editor_options_large.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/qt4_editor_options_large.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axes_grid1/image_grid.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/image_grid.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/random/_bounded_integers.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_bounded_integers.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/tests/mpltest.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/mpltest.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/help.ppm" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/help.ppm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/quiver3d_pivot_tail.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/quiver3d_pivot_tail.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/axes3d_cla.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/axes3d_cla.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/move_large.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/move_large.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/mixedsubplot.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/mixedsubplot.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/filesave.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/filesave.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/backends/web_backend/jquery-ui-1.12.1/images/ui-icons_444444_256x240.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/ui-icons_444444_256x240.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/sample_data/grace_hopper.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/grace_hopper.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/_image.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_image.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/core/_struct_ufunc_tests.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_struct_ufunc_tests.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axisartist_axislines/SubplotZero.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/SubplotZero.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/DejaVuSansMono.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/bar3d_notshaded.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/bar3d_notshaded.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/ttconv.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/ttconv.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/linalg/_umath_linalg.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/_umath_linalg.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/home.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/home.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/scatter3d_color.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/scatter3d_color.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/wireframe3dzerorstride.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/wireframe3dzerorstride.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy.libs/libgfortran-ed201abd.so.3.0.0" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/libgfortran-ed201abd.so.3.0.0" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/sample_data/ct.raw.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/ct.raw.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/voxels-xyz.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/voxels-xyz.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/core/tests/data/astype_copy.pkl" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/astype_copy.pkl" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/move.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/move.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/cmex10.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axes_grid1/zoomed_axes.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/zoomed_axes.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/zoom_to_rect_large.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/zoom_to_rect_large.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/STIXNonUniIta.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/bar3d.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/bar3d.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axisartist_floating_axes/curvelinear3.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/curvelinear3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/subplots.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/subplots.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/back_large.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/back_large.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axes_grid1/fill_facecolor.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/fill_facecolor.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/surface3d_shaded.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/surface3d_shaded.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/bar3d_shaded.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/bar3d_shaded.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/quiver3d_masked.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/quiver3d_masked.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axisartist_axis_artist/axis_artist.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/axis_artist.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/scatter3d.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/scatter3d.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/DejaVuSansDisplay.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/quiver3d_pivot_middle.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/quiver3d_pivot_middle.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/hand.gif" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/hand.gif" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/voxels-edge-style.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/voxels-edge-style.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/.libs/libz-a147dcb0.so.1.2.3" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/libz-a147dcb0.so.1.2.3" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/sample_data/s1045.ima.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/s1045.ima.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_mplot3d/axes3d_labelpad.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/axes3d_labelpad.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/kiwisolver.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/kiwisolver.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axes_grid1/inset_axes.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/inset_axes.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/sample_data/membrane.dat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/membrane.dat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/numpy/random/mtrand.cpython-38-x86_64-linux-gnu.so" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/mtrand.cpython-38-x86_64-linux-gnu.so" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/matplotlib/mpl-data/images/zoom_to_rect.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/zoom_to_rect.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/lib/python3.8/site-packages/mpl_toolkits/tests/baseline_images/test_axes_grid1/divider_append_axes.pdf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_14_20,_3_26_AM_[Default_Changelist]1/divider_append_axes.pdf" />
+  </binary>
+</changelist>
