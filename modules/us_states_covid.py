@@ -137,11 +137,13 @@ class State:
 
 
 if __name__ == '__main__':
-    # Auth
-    # api = KaggleApi()
-    # api.authenticate()
-    #
-    # api.dataset_download_files('sudalairajkumar/covid19-in-usa', unzip=True)
+    try:
+        api = KaggleApi()
+        api.authenticate()
+
+        api.dataset_download_files('sudalairajkumar/covid19-in-usa', unzip=True)
+    except Exception:
+        pass
 
 
     usa_file = "us_states_covid19_daily.csv"
