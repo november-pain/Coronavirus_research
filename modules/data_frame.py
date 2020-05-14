@@ -80,8 +80,6 @@ class DataFrame:
                 # arr_ratio.append(ratio)
                 avg_ratio += ratio
                 count += 1
-            else:
-                pass
         return avg_ratio / count
 
     def __str__(self):
