@@ -93,7 +93,7 @@ class SeriesArray:
         checks if array is full
         :return: boolean
         """
-        return  self._num_el == self._volume
+        return self._num_el == self._volume
 
     def append(self, item):
         """
@@ -124,7 +124,6 @@ class SeriesArray:
                 self._num_el -= 1
                 break
 
-
     def insert(self, item, index):
         """
         inserts an element at specified index
@@ -149,7 +148,6 @@ class SeriesArray:
         """
         for i in range(self._num_el):
             self._arr[i] = func(self._arr[i])
-
 
     def __str__(self):
         """
@@ -182,15 +180,4 @@ class _Iterator:
 
 
 if __name__ == '__main__':
-    a = SeriesArray()
-    a.append("1")
-    a.append("")
-    a.append("3")
-    a.append("4")
-    print(a)
-    print(type(a[1]))
-    a.map(lambda x: int(x) if x.isnumeric() else 0)
-
-    print(a)
-    print(type(a[1]))
-
+    pass
