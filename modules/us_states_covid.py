@@ -1,36 +1,8 @@
-import csv
-from kaggle.api.kaggle_api_extended import KaggleApi
 from modules.adt import SeriesArray
 from modules.data_frame import DataFrame
 from datetime import datetime
 import matplotlib.pyplot as plt
 import matplotlib.ticker as plticker
-
-
-def csv_to_df(path):
-    """
-    reads csv file and ads data to DataFrame
-    :param path: str
-    :return:
-    """
-    with open(path, "r") as csv_f:
-        csv_reader = csv.reader(csv_f, delimiter=",")
-        df = DataFrame()
-        column_range = [0, 1, 24, 25, 26]  # 2, 3, 11, 16, 19,
-        currsor = 0
-        for row in csv_reader:
-            if currsor == 0:
-                for i in range(len(row)):
-                    if i in column_range:
-                        df.column_names.append(row[i])
-            else:
-                row_series = SeriesArray()
-                for i in range(len(row)):
-                    if i in column_range:
-                        row_series.append(row[i])
-                df.add_row(row_series)
-            currsor += 1
-        return df
 
 
 def date_convert(num):
@@ -44,42 +16,67 @@ def date_convert(num):
 
 class USA:
     def __init__(self):
-        self.df = csv_to_df(usa_file)
+        """
+        initial method
+        """
+        self.df = DataFrame()
+        self.df.csv_to_df(usa_file, SeriesArray(0, 1, 24, 25, 26))
         self._format_df()
         self.state_names = self._state_names_arr()
         self.states = self._states_instances()
 
     def _state_names_arr(self):
         """
-        makse an array of state 2-letter names
+        makes an array of state 2-letter names
         :return: SeriesArray
         """
         st_names = SeriesArray()
         for el in self.df.columns[1]:
-            if el not in st_names and el not in ['VI', 'PR', 'MP', 'GU', 'AS']:  # exclude non-states
+            if el not in st_names and el not in SeriesArray('VI', 'PR', 'MP', 'GU', 'AS'):  # exclude non-states
                 st_names.append(el)
         return st_names
 
     def _format_df(self):
-        for row in self.df.rows:
-            row[0] = date_convert(row[0])
+        self.df.map_column(0, date_convert)
         self.df = self.df.reverse_rows()
         for i in range(2, self.df.num_cols):
             self.df.map_column(i, lambda x: int(x) if x.isnumeric() else 0)
 
-    def avarage_coeff(self):
-        coeffs = SeriesArray()
+    def write_calculations(self):
+        """
+        writes calculations results in file
+        :return: None
+        """
+        results_df = DataFrame()
+        results_df.add_column(self.state_names)
+        results_df.column_names = SeriesArray("state", "positive ratio", "negative ratio")
+
         avg_pos = 0
         avg_neg = 0
-        for i in range(len(self.states)):
-            avg_pos += self.states[i].coeff_pos_total
-            avg_neg += self.states[i].coeff_neg_total
-        avg_neg = avg_neg / len(self.states)
-        avg_pos = avg_pos / len(self.states)
 
-        coeffs.append(avg_pos)
-        coeffs.append(avg_neg)
-        return coeffs
+        pos_arr = SeriesArray()
+        neg_arr = SeriesArray()
+
+        for i in range(len(self.states)):
+            pos = self.states[i].coeff_pos_total
+            avg_pos += pos
+            pos_arr.append(pos)
+            neg = self.states[i].coeff_neg_total
+            avg_neg += neg
+            neg_arr.append(neg)
+
+        results_df.add_column(pos_arr)
+        results_df.add_column(neg_arr)
+
+        avg_neg /= len(self.states)
+        avg_pos /= len(self.states)
+
+        row_average = SeriesArray("USA", avg_pos, avg_neg)
+
+        results_df.add_row(row_average)
+
+        with open("results/calculations.txt", "w") as f:
+            f.write(str(results_df))
 
     def _states_instances(self):
         """
@@ -137,15 +134,6 @@ class State:
 
 
 if __name__ == '__main__':
-    try:
-        api = KaggleApi()
-        api.authenticate()
-
-        api.dataset_download_files('sudalairajkumar/covid19-in-usa', unzip=True)
-    except Exception:
-        pass
-
-
     usa_file = "us_states_covid19_daily.csv"
 
     usa = USA()
@@ -155,5 +143,4 @@ if __name__ == '__main__':
     print("number of states:")
     print(len(usa.state_names))
 
-    with open("results/avarage_ratio_of_grow_rates.txt", "w") as res:
-        res.write(str(usa.avarage_coeff()))
+    usa.write_calculations()
