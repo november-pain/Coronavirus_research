@@ -44,7 +44,7 @@ class USA:
 
     def write_calculations(self):
         """
-        writes calculations results in file
+        writes calculations.txt results in file
         :return: None
         """
         results_df = DataFrame()
@@ -75,8 +75,9 @@ class USA:
 
         results_df.add_row(row_average)
 
-        with open("results/calculations.txt", "w") as f:
-            f.write(str(results_df))
+        with open("results/calculations", "w", encoding="utf-8") as f:
+            for i in range(results_df.num_rows):
+                f.write(str(results_df.rows[i]).replace("[", "").replace("]", "") + "\n")
 
     def _states_instances(self):
         """
