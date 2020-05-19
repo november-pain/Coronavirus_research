@@ -1,4 +1,5 @@
 from modules.adt import SeriesArray
+import csv
 
 
 class DataFrame:
@@ -56,11 +57,23 @@ class DataFrame:
         return reversed_df
 
     def map_column(self, index, func):
+        """
+        applies a function to column
+        :param index: int
+        :param func: function
+        :return: None
+        """
         self.columns[index].map(func)
         for row in self.rows:
             row[index] = func(row[index])
 
     def map_row(self, index, func):
+        """
+        applies a function to row
+        :param index: int
+        :param func: function
+        :return: None
+        """
         self.rows[index].map(func)
         for column in self.columns:
             column[index] = func(column[index])
@@ -77,10 +90,31 @@ class DataFrame:
                 growth1 = clmn1[i] / clmn1[i - 1]
                 growth2 = clmn2[i] / clmn2[i - 1]
                 ratio = growth1 / growth2
-                # arr_ratio.append(ratio)
                 avg_ratio += ratio
                 count += 1
         return avg_ratio / count
+
+    def csv_to_df(self, path, column_range):
+        """
+        reads csv file and ads data to DataFrame
+        :param column_range: array
+        :param path: str
+        """
+        with open(path, "r") as csv_f:
+            csv_reader = csv.reader(csv_f, delimiter=",")
+            cursor = 0
+            for row in csv_reader:
+                if cursor == 0:
+                    for i in range(len(row)):
+                        if i in column_range:
+                            self.column_names.append(row[i])
+                else:
+                    row_series = SeriesArray()
+                    for i in range(len(row)):
+                        if i in column_range:
+                            row_series.append(row[i])
+                    self.add_row(row_series)
+                cursor += 1
 
     def __str__(self):
         """
