@@ -34,4 +34,8 @@ State, that are created during the initialization. Also it collects all
 claculation results of each state and calculates the average.
 
 
+## How to use.
+
+You can acces all reaserch results by this link http://coronavirusresearch.pythonanywhere.com/
+
  
