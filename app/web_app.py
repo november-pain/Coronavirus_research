@@ -3,7 +3,7 @@ import us
 
 app = Flask(__name__)
 
-with open("/home/acid/PycharmProjects/Course_Project/app/calculations", "r") as f:
+with open("/app/calculations", "r") as f:
     coeff_dict = {}
     for row in f.readlines():
         string = row.strip().split(",")
