@@ -138,8 +138,8 @@ class State:
         neg = self.state_df.columns[2]
         total = self.state_df.columns[4]
 
-        self.coeff_pos_total = self.state_df.avarage_ratio_of_growth_rates(3, 4)
-        self.coeff_neg_total = self.state_df.avarage_ratio_of_growth_rates(2, 4)
+        self.coeff_pos_total = self.state_df.average_ratio_of_growth_rates(3, 4)
+        self.coeff_neg_total = self.state_df.average_ratio_of_growth_rates(2, 4)
 
         plt.figure(figsize=(15, 8))
         plt.title("State: " + self.state_name)
