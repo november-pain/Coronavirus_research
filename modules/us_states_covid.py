@@ -103,6 +103,11 @@ class USA:
 
 class State:
     def __init__(self, state, df):
+        """
+        initial method
+        :param state: str
+        :param df: DataFrame object
+        """
         self.state_name = state
         self.state_df = self._make_state_df(state, df)
         self.coeff_pos_total = 0
@@ -110,6 +115,12 @@ class State:
         self.test_stats_plot()
 
     def _make_state_df(self, state, df):
+        """
+        creates data frame for this state
+        :param state: str
+        :param df: DataFrame object
+        :return: DataFrame object
+        """
         state_df = DataFrame()
         state_df.column_names = df.column_names
         for row in df.rows:
@@ -118,6 +129,10 @@ class State:
         return state_df
 
     def test_stats_plot(self):
+        """
+        proceeds main calculations and draws plots
+        :return: None
+        """
         date_x = self.state_df.columns[0]
         pos = self.state_df.columns[3]
         neg = self.state_df.columns[2]
