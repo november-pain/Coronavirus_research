@@ -9,7 +9,6 @@ class SeriesArray:
         self._volume = 1
         self._num_el = 0
         self._arr = self._create_arr(self._volume)
-        self.name = None
         if argv:
             for arg in argv:
                 self.append(arg)
