@@ -34,9 +34,9 @@ class SeriesArray:
 
     def __setitem__(self, index, value):
         """
-        
-        :param index: 
-        :param value: 
+        sets an item on certain position in array
+        :param index: int
+        :param value: obj
         :return: 
         """
         if index >= self._num_el or index < 0:
@@ -166,14 +166,27 @@ class SeriesArray:
 
 class _Iterator:
     def __init__(self, arr, num_el):
+        """
+        initial method
+        :param arr: array
+        :param num_el: int
+        """
         self._num_el = num_el
         self._arr = arr
         self._curr_indx = 0
 
     def __iter__(self):
+        """
+        iteration method
+        :return: object
+        """
         return self
 
     def __next__(self):
+        """
+        iteration
+        :return: None
+        """
         if self._curr_indx < self._num_el:
             el = self._arr[self._curr_indx]
             self._curr_indx += 1
