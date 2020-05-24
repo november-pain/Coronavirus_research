@@ -31,11 +31,11 @@ it creates its DataFrame, proceeds all calculations, draws a graph and puts
 it into results directory. 
 * `class USA` - the main class which contains an array of all instances of class
 State, that are created during the initialization. Also it collects all 
-claculation results of each state and calculates the average.
+calculation results of each state and calculates the average. 
 
 
 ## How to use.
 
-You can acces all reaserch results by this link http://coronavirusresearch.pythonanywhere.com/
+You can access all research results using web app by this link http://coronavirusresearch.pythonanywhere.com/
 
  
