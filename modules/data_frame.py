@@ -15,7 +15,7 @@ class DataFrame:
 
     def add_column(self, arr):
         """
-        adds a column to a DataFrame
+        adds a column to DataFrame
         :param arr: SeriesArray
         :return: None
         """
@@ -31,7 +31,7 @@ class DataFrame:
 
     def add_row(self, arr):
         """
-        adds a row to a DataFrame
+        adds a row to DataFrame
         :param arr: SeriesArray
         :return: None
         """
@@ -86,16 +86,16 @@ class DataFrame:
         :param clmn_indx2: index of second column: int
         :return: float
         """
-        clmn1 = self.columns[clmn_indx1]
-        clmn2 = self.columns[clmn_indx2]
+        col1 = self.columns[clmn_indx1]
+        col2 = self.columns[clmn_indx2]
         avg_ratio = 0
         count = 1
         for i in range(1, self.num_rows):
-            if clmn1[i] != 0 and clmn1[i - 1] != 0 \
-                    and clmn2[i] != 0 and clmn2[i - 1] != 0 \
-                    and clmn1[i] != clmn2[i]:
-                growth1 = clmn1[i] / clmn1[i - 1]
-                growth2 = clmn2[i] / clmn2[i - 1]
+            if col1[i] != 0 and col1[i - 1] != 0 \
+                    and col2[i] != 0 and col2[i - 1] != 0 \
+                    and col1[i] != col2[i]:
+                growth1 = col1[i] / col1[i - 1]
+                growth2 = col2[i] / col2[i - 1]
                 ratio = growth1 / growth2
                 avg_ratio += ratio
                 count += 1
