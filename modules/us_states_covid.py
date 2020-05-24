@@ -6,6 +6,13 @@ import matplotlib.ticker as plticker
 
 
 def date_convert(num):
+    """
+    converts date
+    :param num: int
+    :return:
+    >>> date_convert(20200512)
+    2020-05-12 00:00:00
+    """
     date_str = str(num)
     year = date_str[:4]
     month = date_str[4:6]
