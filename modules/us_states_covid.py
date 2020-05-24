@@ -44,6 +44,10 @@ class USA:
         return st_names
 
     def _format_df(self):
+        """
+        reverses dataframe, turns numeric strings to int
+        :return: None
+        """
         self.df.map_column(0, date_convert)
         self.df = self.df.reverse_rows()
         for i in range(2, self.df.num_cols):
