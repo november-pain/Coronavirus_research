@@ -78,7 +78,14 @@ class DataFrame:
         for column in self.columns:
             column[index] = func(column[index])
 
-    def avarage_ratio_of_growth_rates(self, clmn_indx1, clmn_indx2):
+    def average_ratio_of_growth_rates(self, clmn_indx1, clmn_indx2):
+        """
+        calculates the average ratio of growth rates
+        between values of two specified columns in DataFrame
+        :param clmn_indx1: index of first column: int
+        :param clmn_indx2: index of second column: int
+        :return: float
+        """
         clmn1 = self.columns[clmn_indx1]
         clmn2 = self.columns[clmn_indx2]
         avg_ratio = 0
