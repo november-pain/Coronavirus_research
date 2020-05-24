@@ -133,6 +133,6 @@ class DataFrame:
         for i in range(self.num_rows):
             row = ""
             for k in range(len(self.rows[i])):
-                row += str(self.rows[i][k]) + " " * 9  # + " "*(len(str(self.rows[i][k])) + 1)
+                row += str(self.rows[i][k]) + " " * 9
             s += row + "\n"
         return s
