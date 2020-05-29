@@ -110,8 +110,8 @@ class State:
         """
         self.state_name = state
         self.state_df = self._make_state_df(state, df)
-        self.coeff_pos_total = 0
-        self.coeff_neg_total = 0
+        self.coeff_pos_total = self.state_df.average_ratio_of_growth_rates(3, 4)
+        self.coeff_neg_total = self.state_df.average_ratio_of_growth_rates(2, 4)
         self.test_stats_plot()
 
     def _make_state_df(self, state, df):
@@ -137,9 +137,6 @@ class State:
         pos = self.state_df.columns[3]
         neg = self.state_df.columns[2]
         total = self.state_df.columns[4]
-
-        self.coeff_pos_total = self.state_df.average_ratio_of_growth_rates(3, 4)
-        self.coeff_neg_total = self.state_df.average_ratio_of_growth_rates(2, 4)
 
         plt.figure(figsize=(15, 8))
         plt.title("State: " + self.state_name)
