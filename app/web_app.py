@@ -1,4 +1,6 @@
 from flask import Flask, render_template, request, url_for
+from sys import platform
+import pathlib
 import us
 
 app = Flask(__name__)
@@ -38,6 +40,8 @@ def enter():
                                postot=string1, negtot=string2,
                                usa_postot=res_dict["USA"][0],
                                usa_negtot=res_dict["USA"][1])
+    else:
+        return render_template("us_state.html")
 
 
 @app.route("/", methods=['POST'])
@@ -50,6 +54,13 @@ def state():
 
 
 if __name__ == '__main__':
-    file_path = "/app/calculations"
+    # building absolute path to file calculations referring to operation system`s structure of path
+    # Linux and OS X
+    if platform == "linux" or platform == "linux2" or platform == "darwin":
+        path_slash = "/"
+    # Windows
+    elif platform == "win32":
+        path_slash = "\\"
+    file_path = str(pathlib.Path(__file__).parent.absolute()) + path_slash + "calculations"
     res_dict = read_results(file_path)
     app.run(debug=True)
